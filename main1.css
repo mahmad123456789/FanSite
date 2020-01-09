@@ -1,0 +1,135 @@
+#main{
+			width: 650px;
+			padding-bottom: 30px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		#top{
+			text-decoration: none;
+			color: black;
+		}
+		#footer{
+			width: 650px;
+			margin-left: auto;
+			margin-right: auto;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			color: #999;
+			text-transform: uppercase;
+			border-top: 1px solid #ddd;
+			padding-top: 20px;
+		}
+		.imgLeft{
+			float: left;
+			margin-right:15px;
+		}
+		.imgRight{
+			float:right;
+			margin-left:15px;
+		}
+		.quicklinks{
+			font-family: Verdana, sans-serif;
+			font-size: 11px;
+		}
+		#header{
+			background-image: url(images/bg-header.png);
+			padding-top: 20px;
+			padding-bottom: 15px;
+			margin-bottom: 30px;
+			text-align: center;
+			border-top: 4px solid #71a58f;
+		}
+		body{
+			font-family: Geneva, Tahoma, sans-serif;
+			font-size: 12px;
+			line-height: 20px;
+			margin: 0;
+			background-color: #F0F8FF;
+		}
+		h1{
+			font-family:"Lucida Grande", "Lucida Sans Unicode", sans-serif;
+			font-size:20px;
+			color:#6a8e6b;
+		}
+		h2{
+			font-family:"Lucida Grande", "Lucida Sans Unicode", sans-serif;
+			font-size:16px;
+			color:#6a8e6b;
+			border-top: 1px solid #ddd;
+			padding-top: 20px;
+		}
+		p{
+			margin-bottom: 22px;
+		}
+		#nav{
+			margin-bottom: 50px;
+			white-space: nowrap;
+			text-align: center;
+			font-size:25px;
+		}
+		#nav a{
+			font-family: Helvetica, sans-serif;
+			font-weight: bold;
+			color: #004118;
+			text-transform: uppercase;
+			margin-right: 10px;
+			padding: 10px;
+
+		}
+		#nav a:hover{
+			color: #bc9d6d;
+			text-decoration: none;
+			border-bottom: 1px solid #bc9d6d;
+		}
+		img {
+			border:0;
+		}
+		a {
+			color: #cf690b;
+			text-decoration: none;
+		}
+		a:hover{
+			text-decoration: underline;
+		}
+		body{
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			line-height: 20px;
+			margin: 0;
+			color:red;
+		}
+		p{
+			font-family: Verdana, sans-serif;
+			font-size:12px;
+			line-height: 20px;
+			color:#4a4c4d;
+			text-decoration:;
+		}
+		html{
+			overflow-y: scroll;
+		}
+		}
+		button:hover{
+			background-color: yellow;
+		}
+		.rank table {
+  			font-family: arial, sans-serif;
+  			border-collapse: collapse;
+  			width: 100%;
+		}
+
+		.rank td, th {
+  			border: 1px solid #dddddd;
+  			text-align: left;
+  			padding: 8px;
+		}
+		.tier{
+			text-align: center;
+		}
+		.legends{
+			font-size: 30px;
+			text-align: center;
+		}
+		.Tips{
+			text-align: center;
+		}
